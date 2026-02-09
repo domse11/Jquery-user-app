@@ -1,0 +1,41 @@
+body {
+  background-color: #eef2f5;
+}
+
+.card {
+  border-radius: 12px;
+  border: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* ⭐ Favoriten-Stern */
+.favorite-btn {
+  font-size: 22px;
+  color: #f1c40f;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.favorite-btn:hover {
+  transform: scale(1.2);
+}
+
+.favorite-btn.inactive {
+  color: #ccc;
+}
+
+#suggestions {
+  max-width: 400px;
+  position: absolute;
+  z-index: 1000;
+}
+
+#suggestions .list-group-item {
+  cursor: pointer;
+}

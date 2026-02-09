@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+    <!-- Demo Daten -->
+    <user>
+        <name>Max Mustermann</name>
+        <email>max@mustermann.at</email>
+    </user>
+
+    <user>
+        <name>Anna Beispiel</name>
+        <email>anna@beispiel.at</email>
+    </user>
+
+    <user>
+        <name>Mr P</name>
+        <email>mr.p@islandboy.at</email>
+    </user>
+
+    <user>
+        <name>Giuliano</name>
+        <email>giuliano@buongiorno.it</email>
+    </user>
+
+    <user>
+        <name>Sarah Huber</name>
+        <email>sarah.huber@mail.at</email>
+    </user>
+
+    <user>
+        <name>Thomas Berger</name>
+        <email>thomas.berger@company.io</email>
+    </user>
+
+    <user>
+        <name>Lukas Steiner</name>
+        <email>lukas.steiner@example.com</email>
+    </user>
+
+    <user>
+        <name>Julia Novak</name>
+        <email>julia.novak@webmail.de</email>
+    </user>
+
+    <user>
+        <name>Michael Gruber</name>
+        <email>michael.gruber@devs.at</email>
+    </user>
+
+    <user>
+        <name>Elena Petrova</name>
+        <email>elena.petrova@corp.eu</email>
+    </user>
+
+    <user>
+        <name>David Cohen</name>
+        <email>david.cohen@startup.io</email>
+    </user>
+
+    <user>
+        <name>Marie Dubois</name>
+        <email>marie.dubois@france.fr</email>
+    </user>
+
+    <user>
+        <name>Jan Kowalski</name>
+        <email>jan.kowalski@polska.pl</email>
+    </user>
+
+    <user>
+        <name>Peter Schmidt</name>
+        <email>peter.schmidt@mail.de</email>
+    </user>
+
+    <user>
+        <name>Laura Fischer</name>
+        <email>laura.fischer@design.at</email>
+    </user>
+
+    <user>
+        <name>Andreas Weber</name>
+        <email>andreas.weber@consulting.com</email>
+    </user>
+
+    <user>
+        <name>Sophie König</name>
+        <email>sophie.koenig@agency.at</email>
+    </user>
+
+    <user>
+        <name>Markus Bauer</name>
+        <email>markus.bauer@techhub.io</email>
+    </user>
+
+    <user>
+        <name>Nina Hartmann</name>
+        <email>nina.hartmann@creative.de</email>
+    </user>
+
+    <user>
+        <name>Florian Meier</name>
+        <email>florian.meier@solutions.com</email>
+    </user>
+
+    <user>
+        <name>Isabella Romano</name>
+        <email>isabella.romano@italia.it</email>
+    </user>
+
+    <user>
+        <name>Daniel Svensson</name>
+        <email>daniel.svensson@nordic.se</email>
+    </user>
+
+    <user>
+        <name>Oliver Brown</name>
+        <email>oliver.brown@london.uk</email>
+    </user>
+
+    <user>
+        <name>Emily Johnson</name>
+        <email>emily.johnson@usa.com</email>
+    </user>
+
+    <user>
+        <name>Mateo García</name>
+        <email>mateo.garcia@espana.es</email>
+    </user>
+
+    <user>
+        <name>Lucas Silva</name>
+        <email>lucas.silva@brasil.br</email>
+    </user>
+
+    <user>
+        <name>Noah Müller</name>
+        <email>noah.mueller@student.at</email>
+    </user>
+
+    <user>
+        <name>Emma Schneider</name>
+        <email>emma.schneider@school.de</email>
+    </user>
+
+</users>
